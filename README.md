@@ -1,14 +1,19 @@
-#Desafio Capgemini
-##〰️Objetivo 🎯
+**Desafio Capgemini**
+## 〰️**Objetivo** 🎯
 Repositório criado com o objetivo de publicar os desafios propostos pela Capgemini.
 
-##〰️Tecnologias Utilizadas 👨‍💻
-*Para o desenvolvimento dos desafios foi utlizado o JAVA como linguagem de programação;
-*Os códigos foram realizados utlizando o ECLIPSE como IDE;
-*Foi utilizado o GIT para versionamento de código;
-*Foi utilizado o GitHub para hospedar as resoluções dos desafios
+## 〰️**Tecnologias Utilizadas** 👨‍💻
 
-##〰️Como Rodar 📊
+* Para o desenvolvimento dos desafios foi utlizado o JAVA como linguagem de programação
+
+* Os códigos foram realizados utlizando o ECLIPSE como IDE
+
+* Foi utilizado o GIT para versionamento de código
+
+* Foi utilizado o GitHub para hospedar as resoluções dos desafios
+
+## 〰️**Como Rodar** 📊
+
 * 1º -
 `Criar uma pasta onde deseja salvar o projeto`
 
@@ -27,7 +32,8 @@ Repositório criado com o objetivo de publicar os desafios propostos pela Capgem
 * 6º -
 `Clicar na opção para rodar o projeto`
 
-##〰️Desafios ✔️
+## 〰️**Desafios ✔️**
+
 `Desafio 1` - O código pede que seja informado um número inteiro, a partir do número informado será criada uma escada com "*" através de laços de repetição "FOR", onde o valor
 informado irá determinar a quantidade de linhas que a escada irá possui e também a quantidade de "*" que terá na base da escada. A base da escada não possui espaços apenas "*".
 
@@ -38,5 +44,5 @@ segura.
 `Desafio 3` -O código faz a leitura de uma sequência de caracteres e verifica se o que foi informado é considerado um anagrama. Para isso foi utilizado a classe HASHMAP,
 nativa do java, para serem criados os pares. Um contador faz a contagem da quantidade de anagramas existentes na sequência de caracteres informados.
 
-##〰️Testes 🚩
+## 〰️**Testes** 🚩
 Além dos exemplos informados no documento do desafio, foram feitos alguns testes aleatórios para a verificação do código
